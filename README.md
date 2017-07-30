@@ -1,8 +1,10 @@
-Swing_Wamp
+Servers at one Place
 ==========
+Since I am fed up of all starting all the servers from different places. A short script to just configure ervers to start from same window.
 
-I was finding difficult for opening wamp, weblogic seperately. 
-With this u can open the server with just one click.. Any Server u need to start u can just add accordingly..
+String Extract
+==========
+A boring algorithm to extract strings from textfiles.
 
 
-A swing app to open wamp server as well as weblogic server .
+
